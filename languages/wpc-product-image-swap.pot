@@ -1,0 +1,263 @@
+# Copyright (C) 2024 WPClever
+# This file is distributed under the same license as the WPC Product Image Swap for WooCommerce plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: WPC Product Image Swap for WooCommerce 1.1.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/wpc-product-image-swap\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-08-26T03:12:08+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.5.0\n"
+"X-Domain: wpc-product-image-swap\n"
+
+#. Plugin Name of the plugin
+msgid "WPC Product Image Swap for WooCommerce"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "https://wpclever.net/"
+msgstr ""
+
+#. Description of the plugin
+msgid "It presents products visually engagingly to customers by offering attention-drawing swapping effects for images of products on archive/shop pages."
+msgstr ""
+
+#. Author of the plugin
+msgid "WPClever"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://wpclever.net"
+msgstr ""
+
+#: includes/class-backend.php:142
+msgid "Add image"
+msgstr ""
+
+#: includes/class-backend.php:143
+msgid "Swap Images"
+msgstr ""
+
+#: includes/class-backend.php:163
+msgid "WPC Product Image Swap"
+msgstr ""
+
+#: includes/class-backend.php:163
+msgid "Premium"
+msgstr ""
+
+#. translators: %s is the stars
+#: includes/class-backend.php:166
+msgid "Thank you for using our plugin! If you are satisfied, please reward it a full five-star %s rating."
+msgstr ""
+
+#: includes/class-backend.php:168
+msgid "Reviews"
+msgstr ""
+
+#: includes/class-backend.php:169
+msgid "Changelog"
+msgstr ""
+
+#: includes/class-backend.php:170
+msgid "Discussion"
+msgstr ""
+
+#: includes/class-backend.php:175
+msgid "Settings updated."
+msgstr ""
+
+#: includes/class-backend.php:181
+#: includes/class-backend.php:472
+msgid "Settings"
+msgstr ""
+
+#: includes/class-backend.php:184
+#: includes/class-backend.php:473
+msgid "Premium Version"
+msgstr ""
+
+#: includes/class-backend.php:187
+msgid "Essential Kit"
+msgstr ""
+
+#: includes/class-backend.php:199
+msgid "General"
+msgstr ""
+
+#: includes/class-backend.php:203
+msgid "Mobile devices"
+msgstr ""
+
+#: includes/class-backend.php:206
+msgid "Enable"
+msgstr ""
+
+#: includes/class-backend.php:207
+msgid "Disable"
+msgstr ""
+
+#: includes/class-backend.php:209
+msgid "Enable/disable swapping effects on mobile devices."
+msgstr ""
+
+#: includes/class-backend.php:271
+msgid "Style"
+msgstr ""
+
+#: includes/class-backend.php:275
+msgid "Default"
+msgstr ""
+
+#: includes/class-backend.php:277
+msgid "Basic"
+msgstr ""
+
+#: includes/class-backend.php:278
+msgid "Slider"
+msgstr ""
+
+#: includes/class-backend.php:282
+msgid "Basic: swap between the main featured image and the first image in the gallery"
+msgstr ""
+
+#: includes/class-backend.php:283
+msgid "Slider: swap among featured image & a set of pictures (all or some gallery images, or a custom set uploaded by user)"
+msgstr ""
+
+#: includes/class-backend.php:291
+#: includes/class-backend.php:307
+msgid "Preview"
+msgstr ""
+
+#: includes/class-backend.php:336
+msgid "Basic configuration"
+msgstr ""
+
+#: includes/class-backend.php:343
+msgid "IN animation"
+msgstr ""
+
+#: includes/class-backend.php:353
+msgid "OUT animation"
+msgstr ""
+
+#: includes/class-backend.php:364
+msgid "Slider configuration"
+msgstr ""
+
+#: includes/class-backend.php:375
+msgid "Animation"
+msgstr ""
+
+#: includes/class-backend.php:378
+msgid "fade"
+msgstr ""
+
+#: includes/class-backend.php:379
+msgid "slide"
+msgstr ""
+
+#: includes/class-backend.php:387
+msgid "Direction"
+msgstr ""
+
+#: includes/class-backend.php:390
+msgid "horizontal"
+msgstr ""
+
+#: includes/class-backend.php:391
+msgid "vertical"
+msgstr ""
+
+#: includes/class-backend.php:393
+msgid "For \"slide\" animation only."
+msgstr ""
+
+#: includes/class-backend.php:397
+msgid "Pagination buttons"
+msgstr ""
+
+#: includes/class-backend.php:400
+#: includes/class-backend.php:409
+#: includes/class-backend.php:418
+#: includes/class-backend.php:427
+#: includes/class-backend.php:437
+msgid "yes"
+msgstr ""
+
+#: includes/class-backend.php:401
+#: includes/class-backend.php:410
+#: includes/class-backend.php:419
+#: includes/class-backend.php:428
+#: includes/class-backend.php:438
+msgid "no"
+msgstr ""
+
+#: includes/class-backend.php:406
+msgid "Navigation arrows"
+msgstr ""
+
+#: includes/class-backend.php:415
+msgid "Pause/Play buttons"
+msgstr ""
+
+#: includes/class-backend.php:424
+msgid "Pause on Hover"
+msgstr ""
+
+#: includes/class-backend.php:430
+msgid "Pause the slideshow when hovering over slider, then resume when no longer hovering."
+msgstr ""
+
+#: includes/class-backend.php:434
+msgid "Autoplay"
+msgstr ""
+
+#: includes/class-backend.php:440
+msgid "Animate slider automatically."
+msgstr ""
+
+#: includes/class-backend.php:444
+msgid "Speed"
+msgstr ""
+
+#: includes/class-backend.php:449
+msgid "The speed of the slideshow cycling, in milliseconds."
+msgstr ""
+
+#: includes/class-backend.php:453
+msgid "Limit"
+msgstr ""
+
+#: includes/class-backend.php:458
+msgid "Limit the number of images to be swapped."
+msgstr ""
+
+#: includes/class-backend.php:489
+msgid "Community support"
+msgstr ""
+
+#: includes/class-backend.php:500
+msgid "Product Image Swap"
+msgstr ""
+
+#: includes/class-backend.php:523
+msgid "Product wasn't returned."
+msgstr ""
+
+#: includes/class-backend.php:532
+msgid "Images"
+msgstr ""
+
+#: includes/class-backend.php:550
+msgid "+ Add Images"
+msgstr ""
+
+#: includes/class-backend.php:553
+msgid "Upload images here to be swapped instead of gallery images."
+msgstr ""
